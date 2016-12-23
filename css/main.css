@@ -2204,7 +2204,8 @@ header .logo a {
 	margin: 1.2rem .8rem 0 .8rem;
 	border-radius: 50%;
 	display: inline-block;
-	background: #FFFFFF;
+	/*background: #FFFFFF;*/
+	background: black;
 }
 .owl-theme .owl-controls .owl-page.active span {
 	/*background: #FF0077;*/

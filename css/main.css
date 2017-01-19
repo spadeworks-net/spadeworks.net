@@ -2287,7 +2287,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact-sw {
-	background: #151515;
+	/*background: #151515;*/
+	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }

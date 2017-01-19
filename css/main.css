@@ -2287,8 +2287,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact-sw {
-	/*background: #151515;*/
-	background: #FFFFFF;
+	background: #151515;
+	/*background: #FFFFFF;*/
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
@@ -2466,6 +2466,12 @@ header .logo a {
 .contact-info h5 {
 	/*color: #FF0077;*/
 	color: red;
+}
+
+#sw-clients {
+	background: #FFFFFF;
+	padding-top: 12rem;
+	padding-bottom: 7.2rem;
 }
 
 /**
